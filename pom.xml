@@ -7,7 +7,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>app</name>
 	<modules>
-		<!-- <module>../test</module> -->
     <module>test</module>
   </modules>
 </project>
